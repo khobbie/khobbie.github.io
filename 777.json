@@ -1,4 +1,5 @@
 {
     "status": "SUCCESS",
-    "action": "START"
+    "action": "START",
+    "path": "C:\\xampp\\htdocs\\delete"
 }
